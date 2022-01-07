@@ -1,8 +1,9 @@
 import java.util.*;
 
-class Sum{
+class Experiment2{
 
-	public static void main(String[] args) {		Scanner obj = new Scanner(System.in);      
+	public static void main(String[] args) {		
+		Scanner obj = new Scanner(System.in);      
 
 		System.out.println("Enter the first element");	
 
